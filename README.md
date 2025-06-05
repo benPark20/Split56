@@ -1,6 +1,6 @@
 # The Split56
 
-My hackboard was designed to help make typing more comfortable for me. The board layout was made through iteration, printing out a scale picture of the pcb and testing it in real life. It fits my had perfectly and helps reduce strain on my hands while typing.
+My hackboard was designed to help make typing more comfortable for me. The board layout was made through iteration, printing out a scale picture of the pcb and testing it in real life. It fits my hand size perfectly and helps reduce strain on my hands while typing.
 ![assembly_1__6__720](https://github.com/user-attachments/assets/553fb8ab-c781-490a-b569-fa6f03a45f2c)
 
 ## Features:
