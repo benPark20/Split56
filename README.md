@@ -17,6 +17,7 @@ Dont mind the bad practices 😁
 
 ## PCB
 Designed in KiCad
+
 oooh! rounded traces!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/82c6aae2492a04781b626e117a0441a22da5ce65_image.png)
 
